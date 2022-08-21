@@ -1,0 +1,15 @@
+{
+  "projects": {
+    "default": "cardinalkit-testing"
+  },
+  "targets": {
+    "cardinalkit-testing": {
+      "hosting": {
+        "docs": [
+          "cardinal-documentation"
+        ]
+      }
+    }
+  },
+  "etags": {}
+}

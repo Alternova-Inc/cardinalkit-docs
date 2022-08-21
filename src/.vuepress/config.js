@@ -39,7 +39,7 @@ module.exports = {
         ]
     }),
     title: 'CardinalKit Documentation',
-    base: '/cardinalkit-docs/',
+    base: '/',
     plugins: [
         docsearchPlugin({
             apiKey: '',
