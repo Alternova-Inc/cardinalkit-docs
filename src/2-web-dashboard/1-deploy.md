@@ -61,6 +61,7 @@ Copy the generated Firebase configuration.
  VUE_APP_FIREBASE_STORAGE_BUCKET  = "**storageBucket**"
  VUE_APP_FIREBASE_MESSAGING_SENDER_ID  = "**messagingSenderId**"
  VUE_APP_FIREBASE_APP_ID = "**firebaseConfig.appId**"
+ VUE_APP_AUTH_MODE = "firebase"
  ```
  <br />
  <br />
@@ -223,7 +224,7 @@ After having everything installed and configured, we can run the project.
  npm run serve
 ```
 
-## 3. Deploy the Dashboard to Firebase Hosting
+## 6. Deploy the Dashboard to Firebase Hosting
 
 Once we confirm that our dashboard is working properly locally, we can deploy it to Firebase Hosting.
 
