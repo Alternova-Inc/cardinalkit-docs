@@ -15,7 +15,7 @@ CardinalKit offers a web dashboard that can be used to visualize mobile health d
 
 Before starting this section, you need to have configured a Firebase project and connected your CardinalKit iOS app to it. Please refer to 'Set up Application Infrastructure' if you haven't done this yet, then return to this section. If you have, then proceed to the next step:
  
- Go to [firebase.google.com](https://firebase.google.com) and sign in with the same account that you set up for the mobile app.
+ Go to [console.firebase.google.com](https://console.firebase.google.com/) and sign in with the same account that you set up for the mobile app.
  
  Select the same Firebase project that you created previously.
  <br />
